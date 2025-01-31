@@ -1,0 +1,7 @@
+# ninja log v6
+14	760	7545349254619538	CMakeFiles/NaturalCubicSpline.dir/test.cpp.obj	26e83438eeac5c79
+15	868	7545268428638556	CMakeFiles/NaturalCubicSpline.dir/main.cpp.obj	e9780927d9ec0fd0
+87	768	7552837463509173	build.ninja	e441ded97bb48034
+1472	1667	7551999049589620	NaturalCubicSpline.exe	ab1804cd72edf239
+6	1024	7545536715470657	CMakeFiles/NaturalCubicSpline.dir/test2.cpp.obj	e2f0ab367ef1eebe
+8	1471	7551999034949654	CMakeFiles/NaturalCubicSpline.dir/cubicSpline.cpp.obj	93f29979269b2f4

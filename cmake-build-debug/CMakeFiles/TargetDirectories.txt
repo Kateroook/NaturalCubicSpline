@@ -1,0 +1,3 @@
+C:/uni_labs/Numeric Methods/NaturalCubicSpline/cmake-build-debug/CMakeFiles/NaturalCubicSpline.dir
+C:/uni_labs/Numeric Methods/NaturalCubicSpline/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/uni_labs/Numeric Methods/NaturalCubicSpline/cmake-build-debug/CMakeFiles/rebuild_cache.dir
